@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+git add .
+git commit -m "Checkpoint 1: Initial project setup with Bootstrap"
