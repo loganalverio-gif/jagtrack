@@ -20,20 +20,52 @@
 <body>
 
 
-  <header class="jumbotron jumbotron-fluid">
-   <div class="container">
-     <div class="row align-items-center">
-  <div class="col-4">
-      <img src="img/ja-logo.svg" alt="Jefferson Academy Logo" />
-  </div>
-  <div class="col">
-      <h1>JagTrack</h1>
-      <h2>Your Academic Success Hub</h2>
-  </div>
-</div>
 
-   </div>
+<nav class="navbar navbar-dark navbar-expand-sm fixed-top">
+  <div class="container">
+      <a class="navbar-brand" href="index.html">
+          <img src="img/ja-initials-bLCg4zbA.svg" height="30" width="30" alt="JA Logo" />
+          JagTrack
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#jagtrackNavbar">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="jagtrackNavbar">
+          <ul class="navbar-nav ml-auto">
+             <li class="nav-item active">
+   <a class="nav-link" href="index.html">Home</a>
+</li>
+
+              <li class="nav-item">
+                  <a class="nav-link" href="myclassesnextquarter.html">Next Quarter</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="aboutme.html">About Me</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="ai-chat.html">AI Chat</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="#" id="theme-toggle">
+                      <span id="theme-icon">☀️</span>
+                  </a>
+              </li>
+          </ul>
+      </div>
+  </div>
+</nav>
+<header class="jumbotron jumbotron-fluid">
+  <div class="container">
+      <div class="row">
+          <div class="col text-center">
+              <h1>JagTrack</h1>
+              <h2>Your Academic Success Hub</h2>
+          </div>
+      </div>
+  </div>
 </header>
+
+  
 
 
 
@@ -46,10 +78,10 @@
 
    <!-- This empty div is where you'll add your Bootstrap schedule in Exercise 2 -->
    <div id="schedule-section">
-      html
+    
 <!-- This empty div is where you'll add your Bootstrap schedule in Exercise 2 -->
 <div id="schedule-section">
-   <!-- Your Bootstrap grid schedule will go here -->html
+   <!-- Your Bootstrap grid schedule will go here -->
 <div class="container">
    <div class="row row-content">
        <div class="col-12 col-md-6 col-lg-3">
@@ -85,8 +117,74 @@
            </div>
        </div>
    </div>
+<div class="container">
+  <div class="row">
+      <div class="col">
+          <h2 class="text-center">My Current Classes</h2>
+          <hr />
+      </div>
+  </div>
+
+
+  <ul class="nav nav-tabs" id="classTab" role="tablist">
+      <li class="nav-item">
+          <a class="nav-link active" id="a-block-tab" data-toggle="tab" href="#a-block" role="tab">A Block</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" id="b-block-tab" data-toggle="tab" href="#b-block" role="tab">B Block</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" id="c-block-tab" data-toggle="tab" href="#c-block" role="tab">C Block</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" id="d-block-tab" data-toggle="tab" href="#d-block" role="tab">D Block</a>
+      </li>
+  </ul>
+
+
+  <div class="tab-content" id="classTabContent">
+      <div class="tab-pane fade show active" id="a-block" role="tabpanel">
+          <div class="class-card">
+              <h4>A Block: English Literature</h4>
+              <h5>8:25 AM - 9:55 AM</h5>
+              <p>Exploring classic and contemporary literature, developing critical analysis skills, and improving writing techniques.</p>
+              <a href="#" class="btn btn-primary">Go to Canvas →</a>
+          </div>
+      </div>
+
+
+      <div class="tab-pane fade" id="b-block" role="tabpanel">
+          <div class="class-card">
+              <h4>B Block: Web Design in HTML & CSS</h4>
+              <h5>10:00 AM - 11:30 AM</h5>
+              <p>Building modern, responsive websites using HTML, CSS, and Bootstrap framework. Creating the JagTrack project!</p>
+              <a href="https://jajags.instructure.com/courses/3438" target="_blank" class="btn btn-primary">Go to Canvas →</a>
+          </div>
+      </div>
+
+
+      <div class="tab-pane fade" id="c-block" role="tabpanel">
+          <div class="class-card">
+              <h4>C Block: Algebra II</h4>
+              <h5>12:15 PM - 1:45 PM</h5>
+              <p>Advanced algebra concepts including quadratic functions, exponential growth, and logarithms.</p>
+              <a href="#" class="btn btn-primary">Go to Canvas →</a>
+          </div>
+      </div>
+
+
+      <div class="tab-pane fade" id="d-block" role="tabpanel">
+          <div class="class-card">
+              <h4>D Block: Biology</h4>
+              <h5>1:50 PM - 3:20 PM</h5>
+              <p>Studying living organisms, cell biology, genetics, and ecosystems through lab work and research.</p>
+              <a href="#" class="btn btn-primary">Go to Canvas →</a>
+          </div>
+      </div>
+  </div>
 </div>
 
+</div>
        </div>
    </div>
 </div>
@@ -146,7 +244,8 @@
                <h5>Quick Links</h5>
                <ul class="list-unstyled">
                    <li><a href="index.html">Home</a></li>
-                   <li><a href="#">My Classes</a></li>
+                   <li><a href="myclassesnextquarter.html">Next Quarter</a></li>
+
                    <li><a href="#">Resources</a></li>
                    <li><a href="#">Contact</a></li>
                </ul>
@@ -164,6 +263,7 @@
            </div>
        </div>
    </div>
+   <a href="ai-chat.html">AI Assistant</a>
 </footer>
 
 
@@ -176,7 +276,7 @@
 </body>
 
 
-</body>
+
 
 
 </html>
