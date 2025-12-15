@@ -6,5 +6,21 @@ gitgnore was the hardest
 i feel good about it
 - What would you add to JagTrack in the future?
 i dont know whatever is needed i guess
-- How will you use this site for planning next quarter?]
+- How will you use this site for planning next quarter?
 i do no know
+Calendar Setup:
+- Did you create a new calendar or use an existing one? yes
+- How many Canvas iCal feeds did you add? my classes
+- Did you add them individually by course or as one combined feed? yes
+
+
+Reflection:
+[Write 4-5 sentences about the calendar integration:
+- How will this calendar help you stay organized?
+- What challenges did you face getting it set up?
+- Did you customize the calendar appearance? How?
+- What view works best for you (month, week, agenda)?
+- What other calendars might you add in the future?]
+
+its will help me bacsuse i know whe=ats due and when a challaneg i faced was making the calender
+i did customize it by using style.css codes best veiw for me is agenda i might add a claendar for a futrue classes
