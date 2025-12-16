@@ -24,3 +24,30 @@ Reflection:
 
 its will help me bacsuse i know whe=ats due and when a challaneg i faced was making the calender
 i did customize it by using style.css codes best veiw for me is agenda i might add a claendar for a futrue classes
+
+EXERCISE 3: DARK/LIGHT MODE TOGGLE
+
+
+Color Scheme Design:
+[Write 5-7 sentences about your color choices:
+- What colors did you choose for light mode? Why?
+- What colors did you choose for dark mode? Why?
+- How do your color choices reflect your personality or style?
+- Did you use any color theory principles (complementary, analogous, etc.)?
+- How did you ensure good contrast for accessibility?
+- What tools did you use to help choose colors?
+- Were there any colors you tried that didn't work? Why not?]
+
+
+Theme Preferences:
+- Which theme do you prefer personally and why? [Your answer]
+- When do you think dark mode is most useful? [Your answer]
+- Did you create any custom CSS for the toggle button? [Describe]
+
+
+JavaScript Understanding:
+- In your own words, what does the JavaScript do? its helps with more complex code
+- What is localStorage and why is it useful? because eit stores stuff
+- What happens when you click the theme toggle button? its switches to dark mode
+- Why does the theme preference persist when you reload the page? because i code the code to save over
+- How might you use JavaScript in future projects?] to implment more complex and cool things
