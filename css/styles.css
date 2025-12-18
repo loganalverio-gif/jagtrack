@@ -309,3 +309,16 @@ body {
    padding-bottom: 56.25%;
  }
 }
+
+.personal-info-section {
+  color: #ffd000;
+  background-color: #000000;
+}
+.Goals-Section {
+  color: #ffae00;
+  background-color: #000000;
+}
+.Classes Section {
+  color: #996402;
+  background-color: #000000;
+}

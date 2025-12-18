@@ -50,4 +50,41 @@ JavaScript Understanding:
 - What is localStorage and why is it useful? because eit stores stuff
 - What happens when you click the theme toggle button? its switches to dark mode
 - Why does the theme preference persist when you reload the page? because i code the code to save over
-- How might you use JavaScript in future projects?] to implment more complex and cool things
+- How might you use JavaScript in future projects?] to implment more complex and cool things\
+
+
+EXERCISE 4: ABOUT ME PAGE (FINAL ASSIGNMENT)
+
+
+Bootstrap Components Used:
+1. [Component name] - Used for [what section/purpose]
+2. [Component name] - Used for [what section/purpose]
+3. [Component name] - Used for [what section/purpose]
+4. [Component name] - Used for [what section/purpose]
+(Add more if you used more than 4)
+
+
+Design Choices:
+[Write 6-8 sentences explaining your design decisions:
+- Why did you choose those specific Bootstrap components? i choose them cause they were important
+- How did you decide on the layout and structure? i followed the guidlines given by the teacher
+- What challenges did you face while building this page? i faced tech Problems and confusion
+- What are you most proud of on this page? i am most proud i got it done
+- How does this page reflect your personality? it relefct me as a new coders and such
+- What would you add or improve if you had more time? i would just polish my coding skills and maybe learn new tricks
+- How did you ensure the page was responsive?] i checked it aka clicking it
+
+
+Research and Problem-Solving:
+[Write 4-5 sentences about your learning process:
+
+the learning procces is hard. at the start of learing it can be seen as hard but once youy really start to get in to itr it gets easy
+i also feel like it would have been better with a smooth into it from just code hs but i have a great time and i feel like this was a good quater
+- What resources did you use (Bootstrap docs, W3Schools, etc.)?
+- What was the hardest part to figure out? javascrpt
+- Did you need to troubleshoot any issues? How did you solve them?i have problme sthat i fiexed by asking the teacher
+- What did you learn about researching and implementing new components? i learned that its a whole new worlds thats scary
+- How has your confidence with Bootstrap grown from Module 1 to Module 2?] it gre alot i just wich i had more time
+
+
+
